@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aung Chan Nyein
 
-### Data Scientist & Supply Chain Management Specialist | Public Health Informatics
+### Data Scientist & | Health System Strengthening | Public Health Informatics | Supply Chain Management Specialist
 
 ---
 
