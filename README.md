@@ -10,7 +10,7 @@
 * 🔬 My thesis research focuses on *A Hybrid Framework for Morbidity-Driven Health Commodity Forecasting in Emergency Response*.
 * 🧠 I specialize in epidemiological time series forecasting, employing advanced data imputation architectures (like the SAITS mechanism) and recurrent neural networks (such as Bi-LSTM).
 * ⚙️ I actively benchmark optimization algorithms, specifically Particle Swarm Optimization (PSO), to enhance deep learning model accuracy in public health predictions.
-* 🌍 I bring a decade of professional experience (2016–present) leading Monitoring, Evaluation, and Learning (MEL) for health and development programs across Southeast Asia.
+* 🌍 I bring a decade of professional experience (2016–present) in health system strengthening especially for information systems, financing, and strategic purchasing across Myanmar.
 * 📊 I translate complex quantitative and qualitative data into actionable insights for government ministries, UN agencies, and implementing partners.
 * 📍 I am currently based in Batangas City, Philippines, and am open to Southeast Asia or remote roles.
 
