@@ -4,7 +4,7 @@
 
 ---
 
-##   About Me
+##   About Me 🎸🎙️⚽
 
 * I am a holder of Master of Science in Data Science (GPA 4.00/4.00) from Batangas State University, TNEU, the Philippines as a DISP Scholarship Awardee.
 * 🔬 My thesis research focuses on *A Hybrid Framework for Morbidity-Driven Health Commodity Forecasting in Emergency Response*.
@@ -13,7 +13,7 @@
 * I bring a decade of professional experience (2016–present) in health system strengthening especially for information systems, financing, and strategic purchasing across Myanmar.
 * I convert complex quantitative and qualitative data into actionable insights for government ministries, UN agencies, and implementing partners.
 * I am currently based in Batangas City, Philippines, and am open to Southeast Asia or remote roles.
-🎸🎙️⚽
+
 ---
 
 ## Professional Highlights
