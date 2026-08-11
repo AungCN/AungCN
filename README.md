@@ -24,12 +24,6 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AungCN&label=Profile views&color=0e75b6&style=flat" alt="AungCN" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AungCN" alt="AungCN" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/channyein412" target="blank"><img src="https://img.shields.io/twitter/follow/channyein412?logo=twitter&style=for-the-badge" alt="channyein412" /></a> </p>
-
 - 🌱 I'm currently learning **NLP, AI, Health System Strengthening**
 
 - 📫 How to reach me **mrchannyein1995@gmail.com**
