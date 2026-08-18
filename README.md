@@ -4,7 +4,7 @@
 
 ---
 
-##   About Me 🎸🎙️⚽
+##   About Me 📊📉🎸🎙️⚽
 
 * I am a holder of Master of Science in Data Science (GPA 4.00/4.00) from Batangas State University, TNEU, the Philippines as a DISP Scholarship Awardee.
 * 🔬 My thesis research focuses on *A Hybrid Framework for Morbidity-Driven Health Commodity Forecasting in Emergency Response*.
