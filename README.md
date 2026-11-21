@@ -7,7 +7,7 @@
 ##   About Me 📊📉🎸🎙️⚽
 
 * I am a holder of Master of Science in Data Science (GPA 4.00/4.00) from Batangas State University, TNEU, the Philippines as a DISP Scholarship Awardee.
-* 🔬 My thesis research focuses on *A Hybrid Framework for Morbidity-Driven Health Commodity Forecasting in Emergency Response*.
+* My thesis research focuses on *A Hybrid Framework for Morbidity-Driven Health Commodity Forecasting in Emergency Response*.
 * I specialize in epidemiological time series forecasting, employing advanced data imputation architectures (like the attention-based SAITS mechanism) and recurrent neural networks (such as Bi-LSTM).
 * I actively benchmark optimization algorithms, specifically Particle Swarm Optimization (PSO), to enhance deep learning model accuracy in public health predictions.
 * I bring a decade of professional experience (2016–present) in health system strengthening especially for information systems, financing, and strategic purchasing across Myanmar.
